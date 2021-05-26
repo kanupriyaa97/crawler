@@ -32,6 +32,10 @@ cd crawler
 ```
 
 Activate your virtualenv for Python.
+```
+virtualenv .venv
+source .venv/bin/activate
+```
 
 Install dependencies from requirements.txt
 ```
